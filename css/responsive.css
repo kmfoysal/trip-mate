@@ -1,0 +1,217 @@
+
+@media (min-width: 0px) and (max-width: 575px) {
+
+.slider-caption {
+   
+    top: 45%!important;
+    right: -30%;
+    
+}
+
+.slider-caption .find {
+    
+    padding-left: 20%;
+    width: 300px;
+}
+
+.heading .description p {
+    text-align: center;
+}
+
+.feature .plan {
+    margin: 30px 0;
+}
+
+.feature .query {
+    margin-top: 30px;
+}
+
+.slider-box {
+    padding: 0;
+}
+
+.destination .text-area {
+    text-align: center;
+    padding: 0 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer .widget-1 {
+    padding-right: 0;
+    margin-bottom: 20px;
+}
+
+footer .widget-2 {
+    margin-bottom: 20px;
+}
+
+.col-adjust {
+    padding-right: 20px;
+    
+}
+
+.post .media .user-img {
+    width: 35px;
+    height: 35px;
+}
+
+.post .media .media-body .name-text {
+    
+    font-size: 16px;
+}
+
+.mt-2, .my-2 {
+    margin-top: .3rem!important;
+}
+
+.post .media .media-body form .insert-media .insert-box ul li {
+    font-size: 16px;
+}
+
+.post .media .media-body form .insert-media .btn-post {
+    margin: 15px 0;
+}
+
+.published-post .media .media-body .inline-icon p {
+    font-size: 18px;
+}
+
+.published-post .media .media-body {
+    margin-right: 0px;
+}
+
+.video-box{
+    width: 275px;
+    height: 180px;
+}
+
+.search .search-box .search-bar {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.search .search-box .dd-option {
+    margin-bottom: 20px;
+}
+
+.search .search-box {
+    padding-bottom: 80px;
+    margin-bottom: 30px;
+}
+
+.contact .hero-area h3{
+    color: #fff;
+}
+
+
+.contact .hero-area{
+    text-align: center;
+    padding: 0 2%;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .slider-caption .find {
+    padding-left: 20%;
+}
+
+    .feature .plan {
+    margin: 0px 0;
+}
+
+.feature .query {
+    margin-top: 0;
+}
+
+.feature .wall {
+   
+    margin-bottom: 30px;
+}
+
+.heading .title h5 {
+    font-size: 16px;
+}
+
+.heading .description p {
+    
+    font-size: 14px;
+   
+}
+
+.slider-box {
+    padding: 0;
+}
+
+.destination .text-area p {
+    font-size: 14px;
+    margin-top: 0px;
+    
+}
+
+.post .media .media-body form .insert-media .insert-box ul li {
+    font-size: 18px;
+}
+
+.post .media {
+    padding-bottom: 20px;
+}
+
+.video-box{
+    width: 530px;
+    height: 320px;
+}
+
+.published-post .media .media-body .like-box {
+    margin-top: 10px;
+}
+
+.search .search-box .search-bar {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.search .search-box .dd-option {
+    margin-bottom: 20px;
+}
+
+.search .search-box {
+    padding-bottom: 155px;
+}
+
+.trip-query p {
+    padding: 0 5%;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .slider-caption .find {
+    padding-left: 29%;
+}
+
+.heading .description p {
+    
+    font-size: 16px;
+   
+}
+
+footer .widget-2 h3 {
+    font-size: 20px;
+}
+
+.video-box{
+    width: 770px;
+    height: 420px;
+}
+
+.published-post .media .media-body .like-box {
+    margin-top: 10px;
+}
+
+}
